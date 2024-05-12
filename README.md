@@ -19,3 +19,7 @@ You don't have to deploy the Google Apps Script, you just have to save it.
 ### Execution logs
 
 ![image](https://github.com/ebanner/gmail-auto-archive-daily/assets/2068912/ed6424c2-43e5-430e-961d-7ff8ae71f37b)
+
+## Inspiration
+
+I'm inspired by the [Obsidian](https://obsidian.md) [Daily Note feature](https://help.obsidian.md/Plugins/Daily+notes)
