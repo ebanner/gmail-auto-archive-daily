@@ -4,7 +4,7 @@ Archive inbox every day
 
 ## Summary
 
-I'm experimenting with archiving my email inbox every day. I think it will give me the feeling of a "fresh start" each day.
+I'm experimenting with auto-archiving my email inbox every day. I think it will give me the feeling of a "fresh start" each day.
 
 I'll probably check the archive first thing in the morning too, just to see if I missed anything.
 
