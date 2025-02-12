@@ -1,6 +1,6 @@
 # gmail-auto-archive-daily
 
-Archive inbox every day
+Archive my inbox every day
 
 ## Summary
 
